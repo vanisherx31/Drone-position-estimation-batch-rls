@@ -25,7 +25,7 @@ A total of **200 synchronized measurements** were used to estimate the drone pos
 
 Measurement noise follows Gaussian distributions.
 
----
+--
 
 ## Experiment Setup
 
@@ -33,7 +33,7 @@ Measurement noise follows Gaussian distributions.
 
 The Crazyflie drone hovers at a constant position while a motion capture system records the ground truth position.
 
----
+--
 
 ## Estimation Results
 
