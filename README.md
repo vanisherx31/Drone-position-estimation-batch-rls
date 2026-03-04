@@ -33,7 +33,7 @@ Measurement noise follows Gaussian distributions.
 
 The Crazyflie drone hovers at a constant position while a motion capture system records the ground truth position.
 
---
+
 
 ## Estimation Results
 
