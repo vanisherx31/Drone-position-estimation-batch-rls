@@ -11,7 +11,7 @@ The goal is to estimate the drone's constant position using measurements from tw
 
 ---
 
-# Problem Setup
+## Problem Setup
 
 Two sensors provide measurements:
 
@@ -27,15 +27,15 @@ Measurement noise follows Gaussian distributions.
 
 ---
 
-# Experiment Setup
+## Experiment Setup
 
-![Drone Setup](AAE568_drone_position_estimation_rls_1.png))
+![Drone Setup](AAE568_drone_position_estimation_rls_1.png)
 
 The Crazyflie drone hovers at a constant position while a motion capture system records the ground truth position.
 
 ---
 
-# Estimation Results
+## Estimation Results
 
 The Recursive Least Squares estimator updates the position estimate sequentially as new measurements arrive.
 
@@ -49,7 +49,7 @@ The estimator converges to the Batch Least Squares solution as more measurements
 
 ---
 
-# Key Concepts Demonstrated
+## Key Concepts Demonstrated
 
 - State Estimation
 - Sensor Fusion
@@ -59,17 +59,11 @@ The estimator converges to the Batch Least Squares solution as more measurements
 
 ---
 
-# Tools Used
+## Tools Used
 
 - MATLAB
 - Linear Algebra
 - Estimation Theory
 - Sensor Fusion
 
----
 
-# Author
-
-**Piyush S. More**  
-MS Aerospace Engineering  
-Purdue University
