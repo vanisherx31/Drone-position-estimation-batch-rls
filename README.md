@@ -9,7 +9,7 @@ Two estimation methods were implemented in **MATLAB**:
 
 The goal is to estimate the drone's constant position using measurements from two sensors.
 
---
+
 
 ## Problem Setup
 
@@ -25,7 +25,7 @@ A total of **200 synchronized measurements** were used to estimate the drone pos
 
 Measurement noise follows Gaussian distributions.
 
---
+
 
 ## Experiment Setup
 
