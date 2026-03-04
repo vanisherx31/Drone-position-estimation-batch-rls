@@ -11,7 +11,7 @@ The goal is to estimate the drone's constant position using measurements from tw
 
 ---
 
-**Problem Setup**
+## Problem Setup
 
 Two sensors provide measurements:
 
@@ -27,7 +27,7 @@ Measurement noise follows Gaussian distributions.
 
 ---
 
-**Experiment Setup**
+## Experiment Setup
 
 ![Drone Setup](AAE568_drone_position_estimation_rls_1.png)
 
