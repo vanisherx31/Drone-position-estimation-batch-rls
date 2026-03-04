@@ -11,7 +11,7 @@ The goal is to estimate the drone's constant position using measurements from tw
 
 ---
 
-## Problem Setup
+**Problem Setup**
 
 Two sensors provide measurements:
 
