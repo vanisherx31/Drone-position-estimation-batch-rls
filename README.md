@@ -47,23 +47,4 @@ The dashed red lines represent the **3σ uncertainty bounds** of the estimator.
 
 The estimator converges to the Batch Least Squares solution as more measurements are processed.
 
----
-
-## Key Concepts Demonstrated
-
-- State Estimation
-- Sensor Fusion
-- Recursive Least Squares
-- Covariance Analysis
-- Uncertainty Quantification
-
----
-
-## Tools Used
-
-- MATLAB
-- Linear Algebra
-- Estimation Theory
-- Sensor Fusion
-
 
