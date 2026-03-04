@@ -27,7 +27,7 @@ Measurement noise follows Gaussian distributions.
 
 ---
 
-## Experiment Setup
+**Experiment Setup**
 
 ![Drone Setup](AAE568_drone_position_estimation_rls_1.png)
 
