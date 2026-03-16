@@ -29,7 +29,7 @@ Measurement noise follows Gaussian distributions.
 
 ## Experiment Setup
 
-![Drone Setup](AAE568_drone_position_estimation_rls_1.png)
+![Drone Setup](figures/AAE568_drone_position_estimation_rls_1.png)
 
 The Crazyflie drone hovers at a constant position while a motion capture system records the ground truth position.
 
@@ -41,7 +41,7 @@ The Recursive Least Squares estimator updates the position estimate sequentially
 
 The plots below show the estimated states with **3σ confidence bounds**.
 
-![Estimation Results](AAE568_drone_position_estimation_rls_2.png)
+![Estimation Results](figures/AAE568_drone_position_estimation_rls_2.png)
 
 The dashed red lines represent the **3σ uncertainty bounds** of the estimator.
 
